@@ -1,0 +1,3 @@
+C:/Users/panpi/CLionProjects/KeePass2.0/cmake-build-debug/CMakeFiles/KeePass2_0.dir
+C:/Users/panpi/CLionProjects/KeePass2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/panpi/CLionProjects/KeePass2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
